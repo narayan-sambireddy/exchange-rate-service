@@ -1,1 +1,1 @@
-# remittance-rate-service
+# exchange-rate-service
